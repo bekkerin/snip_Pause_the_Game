@@ -1,3 +1,5 @@
+// attached to the player capsule
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

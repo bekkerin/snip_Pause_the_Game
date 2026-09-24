@@ -1,3 +1,5 @@
+// attached to the empty game manager object
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
